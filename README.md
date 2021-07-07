@@ -1,4 +1,4 @@
-Hello! This is a project I found on a udemy course. HTML and CSS were provided for me, however I self wrote the javascript file to make the game function properly.
+Hello! This is a project I found on a udemy course. HTML and CSS were provided for me, however I self wrote the entire javascript file and customized it to make the game function properly while increasing the difficulty. 
 
 How To Play:
 1. Guess a number 1-50.
